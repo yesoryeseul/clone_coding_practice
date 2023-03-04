@@ -9,7 +9,7 @@
 
 ## 배포 링크
 
-- <a href="https://yesoryeseul.github.io/clone_coding_practice/">존 윅 클론코딩 페이지 이동</a>
+- <a href="https://yesoryeseul.github.io/clone_coding_practice/">존윅 클론코딩 페이지</a>
 
 ## 진행 팀원 소개
 
